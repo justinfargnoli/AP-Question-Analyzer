@@ -1,0 +1,224 @@
+AP Calculus AB
+2015 Free-Response Questions
+®
+
+© 2015 The College Board. College Board, Advanced Placement Program, AP, AP Central, and the acorn logo
+are registered trademarks of the College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+CALCULUS AB
+SECTION II, Part A
+Time— 30 minutes
+Number of problems— 2
+A graphing calculator is required for these problems.
+
+È t2 Ø
+20sin É Ù
+Ê 35 Ú
+cubic feet per hour, t is measured in hours, and 0  t  8. The pipe is partially blocked, allowing water to drain
+
+1. The rate at which rainwater flows into a drainpipe is modeled by the function R, where Rt 
+
+out the other end of the pipe at a rate modeled by D t   0.04t 3  0.4t 2  0.96t cubic feet per hour, for
+0  t  8. There are 30 cubic feet of water in the pipe at time t 0.
+(a) How many cubic feet of rainwater flow into the pipe during the 8-hour time interval 0  t  8 ?
+(b) Is the amount of water in the pipe increasing or decreasing at time t
+answer.
+
+3 hours? Give a reason for your
+
+(c) At what time t, 0  t  8, is the amount of water in the pipe at a minimum? Justify your answer.
+(d) The pipe can hold 50 cubic feet of water before overflowing. For t ! 8, water continues to flow into and out
+of the pipe at the given rates until the pipe begins to overflow. Write, but do not solve, an equation involving
+one or more integrals that gives the time w when the pipe will begin to overflow.
+
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-2-
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+2
+
+2. Let f and g be the functions defined by f  x  1  x  e x  2 x and g x  x 4  6.5 x 2  6 x  2. Let R and S
+be the two regions enclosed by the graphs of f and g shown in the figure above.
+(a) Find the sum of the areas of regions R and S.
+(b) Region S is the base of a solid whose cross sections perpendicular to the x-axis are squares. Find the
+volume of the solid.
+(c) Let h be the vertical distance between the graphs of f and g in region S. Find the rate at which h changes
+with respect to x when x 1.8.
+
+
+END OF PART A OF SECTION II
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-3-
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+CALCULUS AB
+SECTION II, Part B
+Time— 60 minutes
+Number of problems—4
+No calculator is allowed for these problems.
+
+t
+(minutes)
+
+vt 
+(meters per minute)
+
+0
+
+12
+
+20
+
+24
+
+40
+
+0
+
+200
+
+240
+
+–220
+
+150
+
+3. Johanna jogs along a straight path. For 0  t  40, Johanna’s velocity is given by a differentiable function v.
+Selected values of vt  , where t is measured in minutes and vt  is measured in meters per minute, are given in
+the table above.
+(a) Use the data in the table to estimate the value of v16 .
+(b) Using correct units, explain the meaning of the definite integral
+Approximate the value of
+
+40
+
+Ô0
+
+40
+
+Ô0
+
+vt  dt in the context of the problem.
+
+vt  dt using a right Riemann sum with the four subintervals indicated in the
+
+table.
+(c) Bob is riding his bicycle along the same path. For 0  t  10, Bob’s velocity is modeled by
+B t 
+
+t 3  6t 2  300, where t is measured in minutes and Bt  is measured in meters per minute.
+
+Find Bob’s acceleration at time t
+
+
+5..
+
+(d) Based on the model B from part (c), find Bob’s average velocity during the interval 0  t  10.
+
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-4-
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+4. Consider the differential equation
+
+dy
+dx
+
+2 x  y.
+
+(a) On the axes provided, sketch a slope field for the given differential equation at the six points indicated.
+
+d2y
+in terms of x and y. Determine the concavity of all solution curves for the given differential
+dx 2
+equation in Quadrant II. Give a reason for your answer.
+
+(b) Find
+
+f  x  be the particular solution to the differential equation with the initial condition f  2 
+(c) Let y
+Does f have a relative minimum, a relative maximum, or neither at x 2 ? Justify your answer.
+(d) Find the values of the constants m and b for which y
+
+3.
+
+mx  b is a solution to the differential equation.
+
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-5-
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+5. The figure above shows the graph of f , the derivative of a twice-differentiable function f, on the interval
+> 3, 4 @. The graph of f  has horizontal tangents at x 1, x 1, and x 3. The areas of the regions
+bounded by the x-axis and the graph of f  on the intervals > 2, 1@ and >1, 4 @ are 9 and 12, respectively.
+(a) Find all x-coordinates at which f has a relative maximum. Give a reason for your answer.
+(b) On what open intervals contained in 3  x  4 is the graph of f both concave down and decreasing?
+Give a reason for your answer.
+(c) Find the x-coordinates of all points of inflection for the graph of f. Give a reason for your answer.
+(d) Given that f 1
+
+3, write an expression for f  x  that involves an integral. Find f  4  and f  2  .
+
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-6-
+
+2015 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+6. Consider the curve given by the equation y3  xy
+
+2. It can be shown that
+
+dy
+dx
+
+y
+.
+3y  x
+2
+
+(a) Write an equation for the line tangent to the curve at the point  1, 1 .
+(b) Find the coordinates of all points on the curve at which the line tangent to the curve at that point is vertical.
+(c) Evaluate
+
+d2y
+at the point on the curve where x
+dx 2
+
+1 and y
+
+1.
+
+
+STOP
+END OF EXAM
+
+© 2015 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+-7-
+
+

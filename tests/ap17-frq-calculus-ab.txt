@@ -1,0 +1,205 @@
+2017
+
+
+AP Calculus AB
+Free-Response Questions
+
+
+© 2017 The College Board. College Board, Advanced Placement Program, AP, AP Central, and the acorn logo
+are registered trademarks of the College Board. Visit the College Board on the Web: www.collegeboard.org.
+AP Central is the official online home for the AP Program: apcentral.collegeboard.org.
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+CALCULUS AB
+
+SECTION II, Part A
+
+Time—30 minutes
+
+Number of questions—2
+
+A GRAPHING CALCULATOR IS REQUIRED FOR THESE QUESTIONS.
+
+1.	 A tank has a height of 10 feet. The area of the horizontal cross section of the tank at height h feet is given by
+the function A, where A(h) is measured in square feet. The function A is continuous and decreases as h
+increases. Selected values for A(h) are given in the table above.
+(a) Use a left Riemann sum with the three subintervals indicated by the data in the table to approximate the
+volume of the tank. Indicate units of measure.
+(b) Does the approximation in part (a) overestimate or underestimate the volume of the tank? Explain your
+reasoning.
+(c)	 The area, in square feet, of the horizontal cross section at height h feet is modeled by the function f given
+
+50.3
+. Based on this model, find the volume of the tank. Indicate units of measure.
+by f (h) = 0.2h
+e
++h
+(d) Water is pumped into the tank. When the height of the water is 5 feet, the height is increasing at the rate
+of 0.26 foot per minute. Using the model from part (c), find the rate at which the volume of water is
+changing with respect to time when the height of the water is 5 feet. Indicate units of measure.
+
+
+© 2017 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-2-
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+2.	 When a certain grocery store opens, it has 50 pounds of bananas on a display table. Customers remove
+bananas from the display table at a rate modeled by
+
+⎛ t3 ⎞
+⎟⎟
+f (t ) = 10 + (0.8t)sin ⎜⎜⎜
+⎟ for 0 < t £ 12,
+⎝⎜ 100 ⎟⎠⎟
+where f (t ) is measured in pounds per hour and t is the number of hours after the store opened. After the
+store has been open for three hours, store employees add bananas to the display table at a rate modeled by
+
+(
+
+)
+
+g(t ) = 3 + 2.4 ln t 2 + 2t for 3 < t £ 12,
+where g(t ) is measured in pounds per hour and t is the number of hours after the store opened.
+(a) How many pounds of bananas are removed from the display table during the first 2 hours the store is
+open?
+(b)	 Find f ¢(7).	 Using correct units, explain the meaning of f ¢(7) in the context of the problem.
+(c) Is the number of pounds of bananas on the display table increasing or decreasing at time t = 5 ? Give a
+reason for your answer.
+(d)	 How many pounds of bananas are on the display table at time t = 8 ?
+
+
+END OF PART A OF SECTION II 
+
+
+© 2017 The College Board. 
+
+Visit the College Board on the Web: www.collegeboard.org. 
+
+
+GO ON TO THE NEXT PAGE.
+-3-
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+CALCULUS AB
+SECTION II, Part B
+Time—1 hour
+
+Number of questions—4
+
+NO CALCULATOR IS ALLOWED FOR THESE QUESTIONS.
+
+
+3. The function f is differentiable on the closed interval [−6, 5] and satisfies f (− 2) = 7. The graph of f ¢ , the
+derivative of f, consists of a semicircle and three line segments, as shown in the figure above.
+(a) Find the values of f (− 6) and f (5).
+(b) On what intervals is f increasing? Justify your answer.
+(c) Find the absolute minimum value of f on the closed interval [−6, 5] . Justify your answer.
+(d) For each of f ≤(− 5) and f ≤(3), find the value or explain why it does not exist.
+
+
+© 2017 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-4-
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+4. At time t = 0, a boiled potato is taken from a pot on a stove and left to cool in a kitchen. The internal
+temperature of the potato is 91 degrees Celsius (°C) at time t = 0, and the internal temperature of the potato
+is greater than 27 °C for all times t > 0. The internal temperature of the potato at time t minutes can be
+modeled by the function H that satisfies the differential equation
+
+dH
+1
+= − (H − 27), where H (t) is
+dt
+4
+
+measured in degrees Celsius and H(0) = 91.
+
+(a) Write an equation for the line tangent to the graph of H at t = 0. Use this equation to approximate the
+internal temperature of the potato at time t = 3.
+(b) Use
+
+d 2H
+dt 2
+
+to determine whether your answer in part (a) is an underestimate or an overestimate of the
+
+internal temperature of the potato at time t = 3.
+(c) For t < 10, an alternate model for the internal temperature of the potato at time t minutes is the function
+G that satisfies the differential equation
+
+dG
+= −(G − 27)2 / 3, where G(t) is measured in degrees Celsius
+dt
+
+and G(0) = 91. Find an expression for G(t ). Based on this model, what is the internal temperature of the
+potato at time t = 3 ?
+
+
+© 2017 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-5-
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+5. Two particles move along the x-axis. For 0 £ t £ 8 , the position of particle P at time t is given by
+
+(
+
+)
+
+xP (t ) = ln t 2 − 2t + 10 , while the velocity of particle Q at time t is given by vQ
+(t ) = t 2 − 8t + 15.
+Particle Q is at position x = 5 at time t = 0.
+
+(a) For 0 £ t £ 8 , when is particle P moving to the left?
+(b) For 0 £ t £ 8 , find all times t during which the two particles travel in the same direction.
+(c) Find the acceleration of particle Q at time t = 2. Is the speed of particle Q increasing, decreasing, or
+neither at time t = 2 ? Explain your reasoning.
+(d) Find the position of particle Q the first time it changes direction.
+
+
+© 2017 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+GO ON TO THE NEXT PAGE.
+-6-
+
+2017 AP® CALCULUS AB FREE-RESPONSE QUESTIONS
+
+6. Let f be the function defined by f (x) = cos (2 x) + e sin x.
+Let g be a differentiable function. The table above gives values of g and its derivative g¢ at selected values
+of x.
+Let h be the function whose graph, consisting of five line segments, is shown in the figure above.
+(a) Find the slope of the line tangent to the graph of f at x = p .
+(b) Let k be the function defined by k (x) = h( f (x)). Find k ¢(p ).
+
+◊
+
+(c) Let m be the function defined by m(x) = g(−2x) h(x). Find m¢(2).
+(d) Is there a number c in the closed interval [− 5, − 3] such that g ¢(c) = − 4 ? Justify your answer.
+
+
+STOP
+
+END OF EXAM
+
+
+© 2017 The College Board.
+Visit the College Board on the Web: www.collegeboard.org.
+
+-7-
+
+
+

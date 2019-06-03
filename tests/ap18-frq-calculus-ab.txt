@@ -1,0 +1,107 @@
+
+CALCULATOR SHORT ANSWER
+
+1. People enter a line for an escalator at a rate modeled by the function r given by ⎧37
+for 0£t£300 for t > 300,
+where r(t) is measured in people per second and t is measured in seconds. As people get on the escalator, they exit the line at a constant rate of 0.7 person per second. There are 20 people in line at time t = 0.
+(a) How many people enter the line for the escalator during the time interval 0 £ t £ 300 ?
+(b) During the time interval 0 £ t £ 300, there are always people in line for the escalator. How many people
+are in line at time t = 300 ?
+(c) For t > 300, what is the first time t that there are no people in line for the escalator?
+(d) For 0 £ t £ 300, at what time t is the number of people in line a minimum? To the nearest whole number, find the number of people in line at this time. Justify your answer.
+
+
+
+2. A particle moves along the x-axis with velocity given by v(t) = 10 sin(0.4t2) for time 0 £ t £ 3.5. t2 − t + 3
+The particle is at position x = −5 at time t = 0.
+(a) Find the acceleration of the particle at time t = 3. (b) Find the position of the particle at time t = 3.
+(c) Evaluate ∫3.5 v(t) dt, and evaluate ∫3.5 v(t) dt. Interpret the meaning of each integral in the context of 00
+the problem.
+(d) A second particle moves along the x-axis with position given by x2(t) = t2 − t for 0 £ t £ 3.5. At what
+time t are the two particles moving with the same velocity?
+
+
+No Calc Short Answer
+
+3. The graph of the continuous function g, the derivative of the function f, is shown above. The function g is 2
+piecewise linear for −5 £ x < 3, and g(x) = 2(x − 4) for 3 £ x £ 6. (a) If f(1) = 3, what is the value of f(−5) ?
+(b) Evaluate ∫16 g(x) dx.
+(c) For −5 < x < 6, on what open intervals, if any, is the graph of f both increasing and concave up? Give a
+reason for your answer.
+(d) Find the x-coordinate of each point of inflection of the graph of f. Give a reason for your answer.
+
+
+
+
+4. The height of a tree at time t is given by a twice-differentiable function H, where H(t) is measured in meters and t is measured in years. Selected values of H(t) are given in the table above.
+(a) Use the data in the table to estimate H¢(6). Using correct units, interpret the meaning of H¢(6) in the context of the problem.
+(b) Explain why thzere must be at least one time t, for 2 < t < 10, such that H¢(t) = 2.
+(c) Use a trapezoidal sum with the four subintervals indicated by the data in the table to approximate the
+average height of the tree over the time interval 2 £ t £ 10.
+(d) The height of the tree, in meters, can also be modeled by the function G, given by G(x) = 100x , where
+ 1+x
+x is the diameter of the base of the tree, in meters. When the tree is 50 meters tall, the diameter of the
+base of the tree is increasing at a rate of 0.03 meter per year. According to this model, what is the rate of change of the height of the tree with respect to time, in meters per year, at the time when the tree is
+50 meters tall?
+
+
+
+5. Let f be the function defined by f(x) = excos x.
+(a) Find the average rate of change of f on the interval 0 £ x £ p.
+(b) What is the slope of the line tangent to the graph of f at x = 3p ? 2
+ (c) Find the absolute minimum value of f on the interval 0 £ x £ 2p. Justify your answer.
+(d) Let g be a differentiable function such that g(p ) = 0. The graph of g¢, the derivative of g, is shown
+ below. Find the value of
+2
+lim f (x) or state that it does not exist. Justify your answer.
+ x→p/2 g(x)
+
+
+
+6. Consider the differential equation dx = 3 x(y − 2) .
+(a) A slope field for the given differential equation is shown below. Sketch the solution curve that passes through the point (0, 2), and sketch the solution curve that passes through the point (1, 0).
+(b) Let y = f (x) be the particular solution to the given differential equation with initial condition f (1) = 0. Write an equation for the line tangent to the graph of y = f (x) at x = 1. Use your equation to approximate f(0.7).
+(c) Find the particular solution y = f (x) to the given differential equation with initial condition f (1) = 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
